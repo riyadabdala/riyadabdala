@@ -68,23 +68,23 @@ I'm continuously developing my skills in analytics, BI, SQL, and workflow automa
 
 ## 🚀 Featured Projects
 
-### 📊 Sales & Business Performance Dashboard
+📊 Excel Dashboards
 
-**Power BI | DAX | Power Query**
+AfriMart
+Bike Store
+Coffee Shop
 
-* Analyzed sales and revenue performance
-* Built interactive KPI dashboards
-* Created DAX measures for business metrics
-* Identified trends and performance patterns
+📈 Power BI Dashboards
 
-### 🛒 Olist E-Commerce Analytics
+Egyptian Food
+Saudi Indicators Dashboard
+Maven
 
-**Power BI | SQL | Data Modeling**
+🐍 Python / Data Analysis
 
-* Analyzed customers, orders, products, payments, and sellers
-* Built a relational data model
-* Developed business KPIs
-* Created interactive dashboards to understand e-commerce performance
+Spotify & YouTube Analysis
+Salary Data Analysis
+Movies Dataset Analysis
 
 ### ⚙️ Business Workflow Automation
 
