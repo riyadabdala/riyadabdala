@@ -68,19 +68,19 @@ I'm continuously developing my skills in analytics, BI, SQL, and workflow automa
 
 ## 🚀 Featured Projects
 
-📊 Excel Dashboards
+📊 Excel Dashboards :
 
 AfriMart
 Bike Store
 Coffee Shop
 
-📈 Power BI Dashboards
+📈 Power BI Dashboards : 
 
 Egyptian Food
 Saudi Indicators Dashboard
 Maven
 
-🐍 Python / Data Analysis
+🐍 Python / Data Analysis :
 
 Spotify & YouTube Analysis
 Salary Data Analysis
