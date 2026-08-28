@@ -118,9 +118,7 @@ To become a professional **Data Analyst / BI Analyst** capable of turning data i
 
 I'm always interested in connecting with other data professionals, collaborating on projects, and exploring opportunities in **Data Analytics, Business Intelligence, and Automation**.
 
-📧 Email: Add your professional email here
-
-🔗 LinkedIn: Add your LinkedIn profile here
+🔗 LinkedIn:www.linkedin.com/in/riyad-abdala-elkholy
 
 ---
 
