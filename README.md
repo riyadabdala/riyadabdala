@@ -65,7 +65,6 @@ I'm continuously developing my skills in analytics, BI, SQL, and workflow automa
 * Translate business requirements into practical data solutions
 
 ---
-
 ## 🚀 Featured Projects
 
 ### 📊 Python / Data Analysis & Machine Learning
@@ -79,7 +78,7 @@ I'm continuously developing my skills in analytics, BI, SQL, and workflow automa
 | Project | Description | Tools |
 |---|---|---|
 | [Egyptian Food Dashboard](https://github.com/riyadabdala/egyptian-food-powerbi-dashboard) | لوحة تحليلية لبيانات المطاعم والأكل المصري | `Power BI` `DAX` |
-| [Saudi Indicators Dashboard](https://github.com/riyadabdala/saudi-indicators-dashboard) | لوحة مؤشرات اقتصادية/اجتماعية للسعودية | `Power BI` `DAX` |
+| [Saudi Indicators Dashboard](https://github.com/riyadabdala/saudi-indicators-dashboard) | لوحة متابعة مؤشرات الأداء التشغيلي السنوي (KPIs) لقطاع الخدمات الإسعافية، بتتبع زمن الاستجابة، نسب الالتزام بالسياسات، ونسب الأداء مقابل المستهدفات الفصلية | `Power BI` `DAX` |
 | [Maven Market Dashboard](https://github.com/riyadabdala/Maven-) | لوحة مبيعات ببناء Star Schema كامل | `Power BI` `Star Schema` |
 
 ### 📉 Excel Dashboards
