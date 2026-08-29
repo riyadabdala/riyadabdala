@@ -68,32 +68,39 @@ I'm continuously developing my skills in analytics, BI, SQL, and workflow automa
 
 ## 🚀 Featured Projects
 
-📊 Excel Dashboards :
+### 📊 Python / Data Analysis & Machine Learning
+| Project | Description | Tools |
+|---|---|---|
+| [Spotify & YouTube Analysis](https://github.com/riyadabdala/spotify-youtube-analysis) | تحليل استكشافي لبيانات الأغاني والفيديوهات وربط أداء المنصتين ببعض | `Pandas` `Matplotlib` `Seaborn` |
+| [Movies Dataset Analysis](https://github.com/riyadabdala/movies-dataset-analysis) | تحليل ارتباطات في صناعة الأفلام (الميزانية، الإيرادات، التقييم) | `Pandas` `NumPy` `Matplotlib` |
+| [Salary Data Analysis](https://github.com/riyadabdala/salary-data-analysis) | تحليل بيانات رواتب الوظائف التقنية والعوامل المؤثرة فيها | `Pandas` `Seaborn` |
 
-AfriMart
-Bike Store
-Coffee Shop
+### 📈 Power BI Dashboards
+| Project | Description | Tools |
+|---|---|---|
+| [Egyptian Food Dashboard](https://github.com/riyadabdala/egyptian-food-powerbi-dashboard) | لوحة تحليلية لبيانات المطاعم والأكل المصري | `Power BI` `DAX` |
+| [Saudi Indicators Dashboard](https://github.com/riyadabdala/saudi-indicators-dashboard) | لوحة مؤشرات اقتصادية/اجتماعية للسعودية | `Power BI` `DAX` |
+| [Maven Market Dashboard](https://github.com/riyadabdala/Maven-) | لوحة مبيعات ببناء Star Schema كامل | `Power BI` `Star Schema` |
 
-📈 Power BI Dashboards : 
+### 📉 Excel Dashboards
+| Project | Description | Tools |
+|---|---|---|
+| [AfriMart Sales Analysis](https://github.com/riyadabdala/afrimart-sales-analysis) | تحليل مبيعات وبناء تقارير تفاعلية بالإكسيل | `Excel` `PivotTables` |
+| [Bike Sales Analysis](https://github.com/riyadabdala/bike-sales-analysis) | تحليل أداء مبيعات محل دراجات | `Excel` `Charts` |
+| [Coffee Shop Sales Analysis](https://github.com/riyadabdala/coffee-shop-sales-analysis) | تحليل مبيعات كافيه وتحديد أوقات الذروة | `Excel` `PivotTables` |
 
-Egyptian Food
-Saudi Indicators Dashboard
-Maven
-
-🐍 Python / Data Analysis :
-
-Spotify & YouTube Analysis
-Salary Data Analysis
-Movies Dataset Analysis
+### 🗄️ SQL Projects
+| Project | Description | Tools |
+|---|---|---|
+| [SQL Exploratory Data Analysis](https://github.com/riyadabdala/SQL-Exploratory-Data-Analysis-EDA-) | استكشاف بيانات وكتابة كويريز تحليلية بـ T-SQL | `T-SQL` |
+| [SQL Data Warehouse](https://github.com/riyadabdala/sql-data-warehouse) | بناء Data Warehouse بمنهجية طبقات (Bronze/Silver/Gold) | `T-SQL` `ETL` |
 
 ### ⚙️ Business Workflow Automation
-
-**n8n | REST APIs | Webhooks**
-
-* Designed automated business workflows
-* Integrated external APIs
-* Worked with webhooks and data processing
-* Built workflows to reduce repetitive manual tasks
+`n8n` `REST APIs` `Webhooks`
+- تصميم Workflows آلية لعمليات الأعمال
+- ربط APIs خارجية
+- التعامل مع Webhooks ومعالجة البيانات
+- بناء Workflows لتقليل المهام اليدوية المتكررة
 
 ---
 
