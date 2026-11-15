@@ -57,7 +57,7 @@ I turn raw business data into clear insights, interactive dashboards, and decisi
 ## 🎓 Education & Training
 
 - **B.Sc. Management Information Systems**, Elshorouk Academy
-- **Digital Pioneers Initiative**: Data Analytics & AI Diploma (Egypt's Ministry of Communications & IT)
+- **Digital Pioneers Initiative(Digilian)**: Data Analytics & AI Diploma (Egypt's Ministry of Communications & IT)
 
 ---
 
